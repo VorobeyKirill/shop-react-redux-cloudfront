@@ -1,5 +1,12 @@
 # React-shop-cloudfront
 
+# S3 application link
+http://shop-kirv.s3-website.eu-central-1.amazonaws.com/ (with 403 error due to private policy)
+
+# CloudFront application link
+https://d1unjfxazjl9xf.cloudfront.net/
+
+
 This is frontend starter project for nodejs-aws mentoring program. It uses the following technologies:
 
 - [Vite](https://vitejs.dev/) as a project bundler
